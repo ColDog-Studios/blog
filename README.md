@@ -1,1 +1,1 @@
-# blog
+# ColDog Studios Blog
