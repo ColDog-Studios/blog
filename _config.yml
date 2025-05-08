@@ -16,7 +16,7 @@ timezone: America/Detroit
 
 title: ColDog Studios Blog # the main title
 
-tagline: Homelab Experiments | Setups | Configuration | Documentation # it will display as the subtitle
+tagline: Homelab Experiments | Setups | Configuration # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   ColDog Studios - Blog - Homelab Experiments | Setups | Configuration | Documentation.

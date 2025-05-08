@@ -12,10 +12,10 @@
   icon: "fa-brands fa-x-twitter"
   url: "https://twitter.com/ColDog5044" # Fill with your Twitter homepage
 
-- type: email
-  icon: "fas fa-envelope"
-  url: "mailto:contact@coldogstudios.com" # Fill with your email address
-  noblank: true # open link in current tab
+#- type: email
+#  icon: "fas fa-envelope"
+#  url: "mailto:contact@coldogstudios.com" # Fill with your email address
+#  noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
